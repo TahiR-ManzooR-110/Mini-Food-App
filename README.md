@@ -6,3 +6,5 @@
 -Built With The Help Of API And LocalStorage.
 <br>
 -<b>Tech Stacks:</b> HTML, CSS, JavaScript.
+<br>
+-<b>LIVE : </b><a href="https://thriving-chaja-326f1b.netlify.app/index.html"><b>NETLIFY</b></a>
